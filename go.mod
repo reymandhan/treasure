@@ -1,3 +1,3 @@
-module example.com/treasure
+module github.com/reymandhan/treasure
 
 go 1.16
